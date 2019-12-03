@@ -1,0 +1,12 @@
+git clone [URL].git - copy the online file to the local location
+
+git status - Checks on the status, if modification is RED then do 'git add .'
+
+git init - intialize tracking of repository
+git add .- Adds the changes made locally and ready to release online
+git commit -a -m "<>" - Staging, before the changes reflect online
+git push - The changes are reflected online
+
+git checkout <> - switch between branch
+git branch <> - create a new branch
+type "<>" - shows the code
